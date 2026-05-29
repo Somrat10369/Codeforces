@@ -6,19 +6,16 @@ lint = lambda: list(map(int, input().split()))
 
 def solve():
     n = int(input())
-    if n <= 100 : print(n)
-    if 100 < n <= 1000 : print(n-25)
-    if 1000<n<=5000: print(n-100)
-    if n>5000: print(n-500)
+    print(2*n) if n%2!=0 else print(n)
 
 def main():
     sys.setrecursionlimit(200000)
 
     t = 1
-    try:
-        t = int(input())
-    except ValueError:
-        pass
+    #try:
+        #t = int(input())
+    #except ValueError:
+        #pass
 
     for _ in range(t):
         solve()

@@ -5,11 +5,8 @@ mint = lambda: map(int, input().split())
 lint = lambda: list(map(int, input().split()))
 
 def solve():
-    n = int(input())
-    if n <= 100 : print(n)
-    if 100 < n <= 1000 : print(n-25)
-    if 1000<n<=5000: print(n-100)
-    if n>5000: print(n-500)
+    A,B = mint()
+    print('YES') if B/A>=0.5 else print('NO')
 
 def main():
     sys.setrecursionlimit(200000)

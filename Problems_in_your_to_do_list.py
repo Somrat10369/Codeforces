@@ -6,10 +6,11 @@ lint = lambda: list(map(int, input().split()))
 
 def solve():
     n = int(input())
-    if n <= 100 : print(n)
-    if 100 < n <= 1000 : print(n-25)
-    if 1000<n<=5000: print(n-100)
-    if n>5000: print(n-500)
+    arr = lint()
+    count = 0
+    for i in arr:
+      if i >=1000:count+=1
+    print(count)
 
 def main():
     sys.setrecursionlimit(200000)

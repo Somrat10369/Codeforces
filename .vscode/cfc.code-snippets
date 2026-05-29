@@ -10,7 +10,7 @@
       "lint = lambda: list(map(int, input().split()))",
       "",
       "def solve():",
-      "    n = mint()",
+      "    n = int(input())",
       "    pass",
       "",
       "def main():",

@@ -5,20 +5,18 @@ mint = lambda: map(int, input().split())
 lint = lambda: list(map(int, input().split()))
 
 def solve():
-    n = int(input())
-    if n <= 100 : print(n)
-    if 100 < n <= 1000 : print(n-25)
-    if 1000<n<=5000: print(n-100)
-    if n>5000: print(n-500)
+    A,B,C,D = mint()
+    if  D == A or D == B or D == C: print("Yes")
+    else: print("No")
 
 def main():
     sys.setrecursionlimit(200000)
 
     t = 1
-    try:
-        t = int(input())
-    except ValueError:
-        pass
+    #try:
+        #t = int(input())
+    #except ValueError:
+        #pass
 
     for _ in range(t):
         solve()
