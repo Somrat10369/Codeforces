@@ -1,0 +1,9 @@
+{
+  "Codeforces Python Template": {
+    "prefix": "yn2",
+    "description": "Optimized template for CodeForces competitive programming",
+    "body": [
+      "print('YES') if else print('NO')"
+    ]
+  }
+}

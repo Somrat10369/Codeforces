@@ -1,6 +1,6 @@
 {
   "Codeforces Python Template": {
-    "prefix": "cf",
+    "prefix": "cf2",
     "description": "Optimized template for CodeForces competitive programming",
     "body": [
       "import sys",
@@ -10,7 +10,7 @@
       "lint = lambda: list(map(int, input().split()))",
       "",
       "def solve():",
-      "    n = mint()",
+      "    A,B = mint()",
       "    pass",
       "",
       "def main():",

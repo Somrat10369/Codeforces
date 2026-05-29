@@ -1,6 +1,6 @@
 {
   "Codeforces Python Template": {
-    "prefix": "cf",
+    "prefix": "cfc",
     "description": "Optimized template for CodeForces competitive programming",
     "body": [
       "import sys",
@@ -17,10 +17,10 @@
       "    sys.setrecursionlimit(200000)",
       "    ",
       "    t = 1",
-      "    #try:",
-      "        #t = int(input())",
-      "    #except ValueError:",
-      "        #pass",
+      "    try:",
+      "        t = int(input())",
+      "    except ValueError:",
+      "        pass",
       "        ",
       "    for _ in range(t):",
       "        solve()",
