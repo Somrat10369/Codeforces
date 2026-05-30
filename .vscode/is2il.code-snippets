@@ -1,0 +1,9 @@
+{
+  "Codeforces Python Template": {
+    "prefix": "is2l",
+    "description": "Optimized template for CodeForces competitive programming",
+    "body": [
+      "arr = [int(i) for i in input()"
+      ]
+  }
+}
