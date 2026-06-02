@@ -6,3 +6,4 @@ date,site,problem,rating,topics,result,time_minutes,difficulty_while_solving
 2026-06-02,Codeforces,158A - Next Round,800,"*special, implementation",AC,7,2
 2026-06-02,Codeforces,1A - Theatre Square,1000,math,AC,5.5,4
 2026-06-02,Codeforces,50A - Domino piling,800,"greedy, math",AC,6,3
+2026-06-02,Codeforces,263A - Beautiful Matrix,800,implementation,AC,10,3
