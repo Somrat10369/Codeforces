@@ -8,3 +8,4 @@ date,site,problem,rating,topics,result,time_minutes,difficulty_while_solving
 2026-06-02,Codeforces,50A - Domino piling,800,"greedy, math",AC,6,3
 2026-06-02,Codeforces,263A - Beautiful Matrix,800,implementation,AC,10,3
 2026-06-02,Codeforces,236A - Boy or Girl,800,"brute force, implementation, strings",AC,2.9,2
+2026-06-02,Codeforces,339A - Helpful Maths,800,"greedy, implementation, sortings, strings",AC,8,3
