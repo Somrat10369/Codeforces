@@ -2,3 +2,4 @@ date,site,problem,rating,topics,result,time_minutes,difficulty_while_solving
 
 2026-06-02,Codeforces,4A - Watermelon,800,"brute force, math",AC,2,Easy
 2026-06-02,Codeforces,231A - Team,800,"brute force, greedy",AC,2.5,2
+2026-06-02,Codeforces,282A - Bit++,800,implementation,AC,9.6,3
