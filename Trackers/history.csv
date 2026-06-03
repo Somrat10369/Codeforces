@@ -14,3 +14,4 @@ date,site,problem,rating,topics,result,time_minutes,difficulty_while_solving
 2026-06-03,Codeforces,266A - Stones on the Table,800,implementation,AC,18,5
 2026-06-03,Codeforces,546A - Soldier and Bananas,800,"brute force, implementation, math",AC,5,3
 2026-06-03,Codeforces,118A - String Task,1000,"implementation, strings",AC,12,3
+2026-06-03,Codeforces,59A - Word,800,"implementation, strings",AC,5,3
