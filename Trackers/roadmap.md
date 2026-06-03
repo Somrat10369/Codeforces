@@ -17,10 +17,17 @@
 - Brute force iteration
 
 ### Goals
-- Participate in 10 Codeforces Div. 4 rounds
-- Consistently solve A + B in contests
-- Solve 50 problems rated 800–1000 on Codeforces
-- Build anti-spiral habit
+- [x] Solve 20 warm-up problems rated 800 (Batch 1 complete — 2026-06-04)
+- [ ] Participate in 10 Codeforces Div. 4 rounds
+- [ ] Consistently solve A + B in contests
+- [ ] Solve 50 problems rated 800–1000 on Codeforces
+- [ ] Build anti-spiral habit
+
+### Progress Log
+| Batch   | Problems      | Date Range              | Notes                                                               |
+| ------- | ------------- | ----------------------- | ------------------------------------------------------------------- |
+| Batch 1 | 20 (800–1000) | 2026-06-02 → 2026-06-04 | 20/20 AC. Avg 8.3 min. 3 flags (constructive, greedy, tricky impl). |
+| Batch 2 | —             | —                       | Target: 30 problems, 800–1000. Include first Div. 4 contest.        |
 
 ### Success Metric
 Solve A and B in every Div. 4 round within 20 minutes combined.
@@ -39,9 +46,9 @@ Solve A and B in every Div. 4 round within 20 minutes combined.
 - Greedy with proof
 
 ### Goals
-- Consistently solve Div. 3 A + B + C
-- Solve 80 problems rated 1000–1400
-- Attempt 15 Div. 3 rounds
+- [ ] Consistently solve Div. 3 A + B + C
+- [ ] Solve 80 problems rated 1000–1400
+- [ ] Attempt 15 Div. 3 rounds
 
 ### Success Metric
 1200+ rating on Codeforces.
@@ -59,9 +66,9 @@ Solve A and B in every Div. 4 round within 20 minutes combined.
 - Difference arrays
 
 ### Goals
-- Solve Div. 3 D problems regularly
-- Attempt 15 Div. 2 rounds
-- Complete CSES Problem Set: Sorting & Searching + Graph sections
+- [ ] Solve Div. 3 D problems regularly
+- [ ] Attempt 15 Div. 2 rounds
+- [ ] Complete CSES Problem Set: Sorting & Searching + Graph sections
 
 ### Success Metric
 1600+ rating. C++ transition begins here.
@@ -79,8 +86,8 @@ Solve A and B in every Div. 4 round within 20 minutes combined.
 - Number theory: sieve, modular inverse
 
 ### Goals
-- Solve Div. 2 C and D regularly
-- CSES DP section complete
+- [ ] Solve Div. 2 C and D regularly
+- [ ] CSES DP section complete
 
 ### Success Metric
 1900+ rating.
@@ -98,8 +105,8 @@ Solve A and B in every Div. 4 round within 20 minutes combined.
 - Geometry (if needed)
 
 ### Goals
-- Compete in Div. 1 rounds
-- Consistent top 15% in Div. 2
+- [ ] Compete in Div. 1 rounds
+- [ ] Consistent top 15% in Div. 2
 
 ### Success Metric
 2400+ rating. Red.
