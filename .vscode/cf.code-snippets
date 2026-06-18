@@ -9,12 +9,9 @@
       "mint = lambda: map(int, input().split())",
       "lint = lambda: list(map(int, input().split()))",
       "",
-      "def solve():",
+      "def main():",
       "    n = int(input())",
       "    pass",
-      "",
-      "def main():",
-      "    solve()",
       "",
       "if __name__ == '__main__':",
       "    main()"
