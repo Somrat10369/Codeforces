@@ -5,8 +5,8 @@ mint = lambda: map(int, input().split())
 lint = lambda: list(map(int, input().split()))
 
 def main():
-    n = (input())
-    print(n[7-1])
+    n = int(input())
+    print(24-n+1)
 
 if __name__ == '__main__':
     main()
