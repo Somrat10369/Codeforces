@@ -3,7 +3,7 @@
     "prefix": "yn",
     "description": "Optimized template for CodeForces competitive programming",
     "body": [
-      "print('Yes') if else print('No')"
+      "print('Yes') if $0 else print('No')"
     ]
   }
 }

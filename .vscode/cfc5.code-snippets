@@ -1,6 +1,6 @@
 {
   "Codeforces Python Template": {
-    "prefix": "cf",
+    "prefix": "cfc5",
     "description": "Optimized template for CodeForces competitive programming",
     "body": [
       "import sys",
@@ -10,9 +10,21 @@
       "lint = lambda: list(map(int, input().split()))",
       "sint = lambda: map(int, input().split())",
       "",
-      "def main():",
-      "    n = int(input())",
+      "def solve():",
+      "    a,b,c,d,e = mint()",
       "    pass",
+      "",
+      "def main():",
+      "    sys.setrecursionlimit(200000)",
+      "    ",
+      "    t = 1",
+      "    try:",
+      "        t = int(input())",
+      "    except ValueError:",
+      "        pass",
+      "        ",
+      "    for _ in range(t):",
+      "        solve()",
       "",
       "if __name__ == '__main__':",
       "    main()"
